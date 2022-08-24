@@ -2,4 +2,4 @@
 
 This repository contains some of the VFX work that I have done using Adobe After Effects.
 
-<img src="./Dr.Strange.gif" alt="Dr. Strange After Effects" width="1000">
+<img src="./Sr.Strange.gif" alt="Dr. Strange After Effects" width="1000">
